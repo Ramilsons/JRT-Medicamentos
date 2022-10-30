@@ -1,0 +1,10 @@
+{
+    "name": "jrt/jrt-medicamentos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jrt\\JrtMedicamentos\\": "src/backend"
+        }
+    },
+    "require": {}
+}
