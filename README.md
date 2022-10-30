@@ -4,7 +4,7 @@
 ## Commands
 execute _composer install_ to install all dependecies
 
-execute _composer install_ para instalar todas as dependecias
+execute _composer install_ para instalar todas as dependencias
 
 
 
